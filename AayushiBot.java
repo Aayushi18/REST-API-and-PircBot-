@@ -2,7 +2,7 @@
  *	Extend the main Pircbot class
  *	This file contains all the methods and implementations for the bot
  *
- *	Written by Aayushi Choudhary (AXC190000) for CS 2336 Project 1 (Fall 2020)
+ *	Written by Aayushi Choudhary for CS 2336 Project 1 (Fall 2020)
  */
 
 import org.jibble.pircbot.*;
