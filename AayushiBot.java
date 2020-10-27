@@ -152,7 +152,7 @@ public class AayushiBot extends PircBot
 	{
 		// creating the API endpoint (the URL) that will be called by incorporating the city name/zipcode	
 		
-		String APPID = "502d4033ab0bcf76e798cdbe180ad2b7";										// using the ID provided by OpenWeather API
+		String APPID = "enter your API key here";										// using the ID provided by OpenWeather API
 		String weatherURL = "http://api.openweathermap.org/data/2.5/weather?q=" + location +",US&APPID=" + APPID;
 		
 		try 																					// try catch block to catch and display any errors
@@ -204,7 +204,7 @@ public class AayushiBot extends PircBot
 	// used the NASA API: https://api.nasa.gov/
 	String NASA_API(String message, String channel, String sender)
 	{
-		String API_KEY = "4TaPQ5XePerIDe9mHPKjVULia8dBLwiPWud2a1Jh";
+		String API_KEY = "enter your API key here";
 		String NASA_URL = "https://api.nasa.gov/planetary/apod?api_key=" + API_KEY;
 		
 		try 
