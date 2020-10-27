@@ -7,3 +7,5 @@ Libraries Used:
 - Uses the NASA Astronomy Picture of the Day API - https://api.nasa.gov/
 - Uses the Jokes API - https://official-joke-api.appspot.com/random_joke
 - Uses the COVID 19 API - https://covid19api.com/
+
+Go to http://webchat.freenode.net/ to access the ChatBot and connect to #AChannel
