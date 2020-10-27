@@ -10,4 +10,4 @@ Libraries Used:
 
 Go to http://webchat.freenode.net/ to access the ChatBot and connect to #AChannel
 
-NOTE: You will need to generate your own API key to be able to run the program.
+NOTE: You will need to generate your own API key for Open Weather Map and NASA to be able to run the program.
