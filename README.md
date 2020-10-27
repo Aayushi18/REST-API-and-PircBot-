@@ -9,3 +9,5 @@ Libraries Used:
 - Uses the COVID 19 API - https://covid19api.com/
 
 Go to http://webchat.freenode.net/ to access the ChatBot and connect to #AChannel
+
+NOTE: You will need to generate your own API key to be able to run the program.
